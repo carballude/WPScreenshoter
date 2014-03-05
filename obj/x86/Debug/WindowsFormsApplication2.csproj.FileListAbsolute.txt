@@ -1,0 +1,64 @@
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.exe.config
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.exe
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.pdb
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\XapDeployDll.dll
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.WindowsFormsApplication2.exe.config
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\Microsoft.Xde.Wmi.dll
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\de-DE\Microsoft.Xde.Wmi.resources.dll
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\es-ES\Microsoft.Xde.Wmi.resources.dll
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\fr-FR\Microsoft.Xde.Wmi.resources.dll
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\it-IT\Microsoft.Xde.Wmi.resources.dll
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\ja-JP\Microsoft.Xde.Wmi.resources.dll
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\ko-KR\Microsoft.Xde.Wmi.resources.dll
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\ru-RU\Microsoft.Xde.Wmi.resources.dll
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\zh-CN\Microsoft.Xde.Wmi.resources.dll
+c:\users\pacarba\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\zh-TW\Microsoft.Xde.Wmi.resources.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.WindowsFormsApplication2.exe.config
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\Microsoft.Xde.Wmi.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\XapDeployDll.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\de-DE\Microsoft.Xde.Wmi.resources.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\es-ES\Microsoft.Xde.Wmi.resources.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\fr-FR\Microsoft.Xde.Wmi.resources.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\it-IT\Microsoft.Xde.Wmi.resources.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\ja-JP\Microsoft.Xde.Wmi.resources.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\ko-KR\Microsoft.Xde.Wmi.resources.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\ru-RU\Microsoft.Xde.Wmi.resources.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\zh-CN\Microsoft.Xde.Wmi.resources.dll
+C:\Users\Pablo\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\zh-TW\Microsoft.Xde.Wmi.resources.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\Microsoft.Xde.Wmi.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\XapDeployDll.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\de-DE\Microsoft.Xde.Wmi.resources.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\es-ES\Microsoft.Xde.Wmi.resources.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\fr-FR\Microsoft.Xde.Wmi.resources.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\it-IT\Microsoft.Xde.Wmi.resources.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\ja-JP\Microsoft.Xde.Wmi.resources.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\ko-KR\Microsoft.Xde.Wmi.resources.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\ru-RU\Microsoft.Xde.Wmi.resources.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\zh-CN\Microsoft.Xde.Wmi.resources.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\zh-TW\Microsoft.Xde.Wmi.resources.dll
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\WPScreenShoter.exe.config
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\WPScreenShoter.exe
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Debug\WPScreenShoter.pdb
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.WPScreenShoter.exe.config
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WPScreenShoter.Properties.Resources.resources
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WPScreenShoter.exe
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WPScreenShoter.pdb
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WPScreenShoter.AboutBox.resources
+C:\Users\pacarba\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WPScreenShoter.MainWindow.resources
